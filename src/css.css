@@ -1,0 +1,26 @@
+*{margin-top: 20px;
+   background-image: url("https://images-ext-2.discordapp.net/external/XP26mA0gvCQjHAKY_95W_l1XJxYPMScbfBCuWVAetaw/https/p4.wallpaperbetter.com/wallpaper/337/803/674/blue-pattern-texture-4k-wallpaper-preview.jpg?width=400&height=250");
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+ }
+button{background-color: rgb(212, 209, 19);
+width: 100px;
+height: 50px;
+border-radius: 20px;}
+input{margin-top: 30px;
+    width: 200px;
+height: 50px;
+border-radius: 20px;
+
+color: white;}
+img{width: 50px;
+    height:50px ;
+border-radius: 20px;}
+.image{display: flex;
+flex-direction: row;
+justify-content: center;
+}
+.out{color: white;
+font-size: 30px;}
+.envoyer{margin-left: 60px;}
